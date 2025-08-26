@@ -30,8 +30,8 @@ Transformo datos en decisiones estratégicas para mejorar la rentabilidad y apoy
 ---
 
 ## 📜 Certificaciones
-- Data Analytics – [Plataforma/Institución]  
-- Power BI para Analistas – [Plataforma/Institución]  
+- Data Analytics – SoyHenry 
+- Power BI para Analistas – SoyHenry 
 
 ---
 

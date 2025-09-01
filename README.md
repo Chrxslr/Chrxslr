@@ -22,7 +22,7 @@ Transformo datos en decisiones estratégicas para mejorar la rentabilidad y apoy
 ---
 
 ## 🌟 Proyectos destacados
-1. [📊 Análisis Financiero de Ventas](URL_PROYECTO)  
+1. [📊 Análisis Financiero de Ventas]((https://github.com/Chrxslr/drumkitproject))  
 2. [📈 Dashboard de KPIs en Power BI](URL_PROYECTO)  
 3. [🔍 Modelo de Pronóstico de Ingresos](URL_PROYECTO)  
 4. [📦 ETL y Limpieza de Datos de Retail](URL_PROYECTO)  

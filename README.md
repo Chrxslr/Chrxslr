@@ -22,17 +22,20 @@ Transformo datos en decisiones estratégicas para mejorar la rentabilidad y apoy
 ---
 
 ## 🌟 Proyectos destacados
-1. [📊 Análisis Financiero de Ventas](URL PROYECTO)  
-3. [📈 Dashboard de KPIs en Power BI](URL_PROYECTO)  
-4. [🔍 Modelo de Pronóstico de Ingresos](URL_PROYECTO)  
-5. [📦 ETL y Limpieza de Datos de Retail](URL_PROYECTO)
-6. [Proyecto Personal DrumKit](https://github.com/Chrxslr/drumkitproject)
+1. [📦 Inventario Predictivo con Power BI](https://github.com/Chrxslr/Inventario-Predictivo.git)  
+3. [🧬 Expansión Estratégica de Biogenesys con Python y Power BI](https://github.com/Chrxslr/Expansi-n-Estrat-gica-de-Biogenesys-con-Python-y-Power-BI.git) 
+4. [📊 Visualizando el Rendimiento de AWC con Power BI](https://github.com/Chrxslr/Rendimiento-de-AWC-con-Power-BI.git)
+5. [🍔 FastFood Insights](https://github.com/Chrxslr/FastFood.git)
+6. [📊 Descifrando la Operación Empresarial](https://github.com/Chrxslr/Descifrando-la-Operaci-n-Empresarial.git)
+7. [Descubriendo el Éxito Comercial](https://github.com/Chrxslr/Descubriendo-el-Exito-Comercial.git)
+8. [Proyecto Personal: Drumkit](https://github.com/Chrxslr/drumkitproject)
 
 ---
 
 ## 📜 Certificaciones
 - Data Analytics – SoyHenry 
-- Power BI para Analistas – SoyHenry 
+- Power BI para Analistas – SoyHenry
+- Inglés - EF SET 68/100 C1 Avanzado
 
 ---
 
